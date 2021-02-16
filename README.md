@@ -27,10 +27,10 @@ Currently working in _Software Engineering Division_ as a **_Back-End Developer_
 
 ### 🚀 How to reach me:
 
-- Web: [Bachtiar Firdaus](https://elfinsanjaya.github.io)
+- Web: [Bachtiar Firdaus](https://bachtiar-firdaus.github.io)
 - Email: [id.Bachtiar.firdaus@gmail.com](id.Bachtiar.firdaus@gmail.com)
 - LinkedIn: [Bachtiar Firdaus](https://www.linkedin.com/in/bachtiar-firdaus-64b35419b/)
-- Instagram: [@Firdaus_Bchtr](https://www.instagram.com/elfinsanjaya12/)
+- Instagram: [@Firdaus_Bchtr](https://www.instagram.com/Firdaus_bchtr/)
 
 ---
 
