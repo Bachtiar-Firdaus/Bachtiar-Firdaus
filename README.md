@@ -1,4 +1,4 @@
-[![Bachtiar Firdaus Github Stats](https://github-readme-stats.vercel.app/api?username=elfinsanjaya12&count_private=true&theme=default&show_icons=true)](https://github.com/Bachtiar-Firdaus)
+[![Bachtiar Firdaus Github Stats](https://github-readme-stats.vercel.app/api?username=bachtiar-firdaus&count_private=true&theme=default&show_icons=true)](https://github.com/Bachtiar-Firdaus)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bachtiar-Firdaus&layout=compact)](https://github.com/Bachtiar-Firdaus)
 <br>
 
