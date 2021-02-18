@@ -1,5 +1,5 @@
+[![Bachtiar Firdaus Github Stats](https://github-readme-stats.vercel.app/api?username=elfinsanjaya12&count_private=true&theme=default&show_icons=true)](https://github.com/Bachtiar-Firdaus)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bachtiar-Firdaus&layout=compact)](https://github.com/Bachtiar-Firdaus)
-[![Bachtiar Firdaus Github Stats](https://github-readme-stats.vercel.app/api?username=Bachtiar-Firdaus&count_private=true&theme=default&show_icons=true)](https://github.com/Bachtiar-Firdaus)
 <br>
 
 👋 Hello... My full name is Bachtiar Firdaus, so you can call me "Daus". I'm Software Engineer who specialized in _backend_ side, but also have an ability to code in _frontend_ side. Very passionate about modern _mobile and web technology_ using JavaScript/TypeScript while taking into consideration the latest trends and techniques.
