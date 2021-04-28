@@ -2,7 +2,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bachtiar-Firdaus&layout=compact)](https://github.com/Bachtiar-Firdaus)
 <br>
 
-👋 Hello... My full name is Bachtiar Firdaus, so you can call me "Daus". I'm Software Engineer who specialized in _backend_ side, but also have an ability to code in _frontend_ side. Very passionate about modern _mobile and web technology_ using JavaScript/TypeScript while taking into consideration the latest trends and techniques.
+👋 Hello... My full name is Bachtiar Firdaus, so you can call me "Daus". I'm Software Engineer who specialized in _backend_ side, but also have an ability to code in _frontend_ side. Very passionate about modern _mobile and web technology_ using JavaScript while taking into consideration the latest trends and techniques.
 
 ## 💼 Career
 
@@ -10,13 +10,14 @@ Currently working in _Software Engineering Division_ as a **_Back-End Developer_
 
 ## 💻 Experiences
 
-- Pure JavaScript/TypeScript
+- Pure JavaScript
 - GIT (VCS)
 - JavaScript Ecosystem & Environment (_Real-time, Asynchronous/Concurrent Processing_)
-- React Web/Native (_Hooks, Context API, Redux_)
+- React.JS (_Hooks, Context API, Redux_)
 - NextJS
-- Express JS
+- Node.JS (Express JS)
 - Heroku, Mongo Atlas, Firebase, Mysql, PostgreSQL
+- Laravel 8
 
 ### 🔍 Currently Learning:
 
