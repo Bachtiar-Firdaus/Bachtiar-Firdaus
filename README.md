@@ -14,7 +14,6 @@ Currently working in _Software Engineering Division_ as a **_Back-End Developer_
 - GIT (VCS)
 - JavaScript Ecosystem & Environment (_Real-time, Asynchronous/Concurrent Processing_)
 - React.JS (_Hooks, Context API, Redux_)
-- NextJS
 - Node.JS (Express JS)
 - Heroku, Mongo Atlas, Firebase, Mysql, PostgreSQL
 - Laravel 8
