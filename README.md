@@ -6,7 +6,7 @@
 
 ## 💼 Career
 
-Currently working in _Software Engineering Division_ as a **_Back-End Developer_** at [Maven](https://maven.co.id/).
+Currently working in _Software Engineering Division_ as a **_Back-End Developer_** at [Maven Digital Asia](https://maven.co.id/).
 
 ## 💻 Experiences
 
